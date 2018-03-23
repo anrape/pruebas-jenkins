@@ -1,0 +1,6 @@
+mobile/
+node_modules/
+app/default/
+.tmp/
+builds/
+.sass-cache/
